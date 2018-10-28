@@ -18,7 +18,7 @@ plt.plot(frecuencia, transformada)
 plt.savefig('violin.pdf')
 
 wave2= wave[1]
-
+fiosehfñewfguerslghlseiru
 
 def t(wave2,frecuencia):
 	for i in range (len(wave2)):
